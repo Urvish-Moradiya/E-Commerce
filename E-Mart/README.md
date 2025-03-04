@@ -13,11 +13,11 @@ The main features of this application include:
 ## Screenshots
 
 Below is a screenshot of the project:
-Home Page
+**Home Page**
 ![Screenshot](./output/homepage.png)
-Productdetails Page
+**Productdetails Page**
 ![Screenshot](./output/productdetails.png)
-Cart Page
+**Cart Page**
 ![Screenshot](./output/cart.png)
 
 ## Technologies Used
