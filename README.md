@@ -14,11 +14,11 @@ The main features of this application include:
 
 Below is a screenshot of the project:
 **Home Page**
-![Screenshot](./output/homepage.png)
+![Screenshot](../output/homepage.png)
 **Productdetails Page**
-![Screenshot](./output/productdetails.png)
+![Screenshot](../output/productdetails.png)
 **Cart Page**
-![Screenshot](./output/cart.png)
+![Screenshot](../output/cart.png)
 
 ## Technologies Used
 - **React** - A JavaScript library for building user interfaces.
